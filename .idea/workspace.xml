@@ -1,0 +1,335 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e496839d-b879-4784-aa1d-b0684ff316e7" name="Changes" comment="Merge remote-tracking branch 'origin/main'" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;andyflores2249-dotcom&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/andyflores2249-dotcom/2026-FP-Fernandez-Gustavo.git&quot;,
+    &quot;accountId&quot;: &quot;0346b056-8382-47c6-a4bd-023931e40394&quot;
+  }
+}</component>
+  <component name="McpProjectServerCommands">
+    <commands />
+    <urls />
+  </component>
+  <component name="NextEditCompletionFeaturesState">
+    <decayedCancelled>
+      <entry key="MS100" value="1.0000137521421977" />
+      <entry key="MS500" value="1.1174456268749788" />
+      <entry key="S2" value="1.894235448826607" />
+      <entry key="S5" value="2.435626875604746" />
+      <entry key="S10" value="2.6917296348748723" />
+      <entry key="S30" value="2.890775131699038" />
+      <entry key="S60" value="2.9445328650866354" />
+      <entry key="M2" value="2.9720491215735283" />
+      <entry key="M5" value="2.9887670211259674" />
+      <entry key="M10" value="2.994374699590037" />
+      <entry key="M15" value="2.996247838778941" />
+      <entry key="M30" value="2.998122938176058" />
+      <entry key="H1" value="2.99906122364591" />
+      <entry key="H2" value="2.99953055044507" />
+      <entry key="H4" value="2.999765259875894" />
+      <entry key="D1" value="2.9999608745143203" />
+      <entry key="W1" value="2.999994410592697" />
+    </decayedCancelled>
+    <decayedSelected>
+      <entry key="MS100" value="0.0" />
+      <entry key="MS500" value="0.0" />
+      <entry key="S2" value="0.0" />
+      <entry key="S5" value="0.0" />
+      <entry key="S10" value="0.0" />
+      <entry key="S30" value="0.0" />
+      <entry key="S60" value="0.0" />
+      <entry key="M2" value="0.0" />
+      <entry key="M5" value="0.0" />
+      <entry key="M10" value="0.0" />
+      <entry key="M15" value="0.0" />
+      <entry key="M30" value="0.0" />
+      <entry key="H1" value="0.0" />
+      <entry key="H2" value="0.0" />
+      <entry key="H4" value="0.0" />
+      <entry key="D1" value="0.0" />
+      <entry key="W1" value="0.0" />
+    </decayedSelected>
+    <decayedShown>
+      <entry key="MS100" value="0.9659497049790878" />
+      <entry key="MS500" value="1.109319939483823" />
+      <entry key="S2" value="1.8869366777282257" />
+      <entry key="S5" value="2.430709532683854" />
+      <entry key="S10" value="2.6887614230211496" />
+      <entry key="S30" value="2.8896496569181798" />
+      <entry key="S60" value="2.9439514846540518" />
+      <entry key="M2" value="2.9717536394103483" />
+      <entry key="M5" value="2.9886476610203205" />
+      <entry key="M10" value="2.9943148235498853" />
+      <entry key="M15" value="2.996207877758313" />
+      <entry key="M30" value="2.9981029358084776" />
+      <entry key="H1" value="2.9990512169927355" />
+      <entry key="H2" value="2.9995255457505023" />
+      <entry key="H4" value="2.999762757186536" />
+      <entry key="D1" value="2.9999604573519103" />
+      <entry key="W1" value="2.9999943509969027" />
+    </decayedShown>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3,
+  &quot;fromUser&quot;: false
+}</component>
+  <component name="ProjectId" id="3INq93D3lN4tLvKLCn9GLg9V0Hi" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="sortByType" value="true" />
+    <option name="sortKey" value="BY_TYPE" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;Python.FuncionCompra.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.SEMANA 11.executor&quot;: &quot;Run&quot;,
+    &quot;Python.SEMANA 9.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ejercicio_funciones.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ejercicio_funciones.py.executor&quot;: &quot;Run&quot;,
+    &quot;Python.reserva_cine.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.MCP Project settings loaded&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
+    &quot;codeWithMe.voiceChat.enabledByDefault&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.jshint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.jshint&quot;: &quot;&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Admin\PycharmProjects\2026-FP-Fernandez-Gustavo\" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.ejercicio_funciones">
+    <configuration name="ejercicio_funciones" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="2026-FP-Fernandez-Gustavo" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="SDK_NAME" value="~\PycharmProjects\2026-FP-Fernandez-Gustavo\.venv" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/SEMANA 14" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="DEBUG_JUST_MY_CODE" value="false" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="RUN_TOOL" value="" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/SEMANA 14/ejercicio_funciones.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="ejercicio_funciones.py" type="PythonConfigurationType" factoryName="Python">
+      <module name="2026-FP-Fernandez-Gustavo" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/SEMANA 14" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="DEBUG_JUST_MY_CODE" value="false" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="RUN_TOOL" value="" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/SEMANA 14/ejercicio_funciones.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-821f704e66d9-5bd6d13a2a75-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-262.9437.214" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e496839d-b879-4784-aa1d-b0684ff316e7" name="Changes" comment="" />
+      <created>1787615219092</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1787615219092</updated>
+      <workItem from="1787958407057" duration="1539000" />
+      <workItem from="1788119782377" duration="1847000" />
+      <workItem from="1788127992202" duration="18000" />
+      <workItem from="1788223167344" duration="528000" />
+      <workItem from="1789165038142" duration="1181000" />
+      <workItem from="1789178787525" duration="906000" />
+      <workItem from="1789360828988" duration="1193000" />
+      <workItem from="1789944987670" duration="4490000" />
+      <workItem from="1789949858200" duration="405000" />
+      <workItem from="1789950278402" duration="6362000" />
+    </task>
+    <task id="LOCAL-00001" summary="matriz = [&#10;    [2, 4, 6],&#10;    [1, 3, 5],&#10;    [7, 8, 9]&#10;]&#10;&#10;for i in range(3):&#10;    for j in range(3):&#10;        print(matriz[i][j], end=&quot; &quot;)&#10;    print()">
+      <option name="closed" value="true" />
+      <created>1787616679072</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1787616679072</updated>
+    </task>
+    <task id="LOCAL-00002" summary="matriz = [&#10;    [2, 4, 6],&#10;    [1, 3, 5],&#10;    [7, 8, 9]&#10;]&#10;&#10;for i in range(3):&#10;    for j in range(3):&#10;        print(matriz[i][j], end=&quot; &quot;)&#10;    print()">
+      <option name="closed" value="true" />
+      <created>1787960247731</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1787960247731</updated>
+    </task>
+    <task id="LOCAL-00003" summary="matriz = [&#10;    [2, 4, 6],&#10;    [1, 3, 5],&#10;    [7, 8, 9]&#10;]&#10;&#10;for i in range(3):&#10;    for j in range(3):&#10;        print(matriz[i][j], end=&quot; &quot;)&#10;    print()">
+      <option name="closed" value="true" />
+      <created>1787960264064</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1787960264064</updated>
+    </task>
+    <task id="LOCAL-00004" summary="matriz = [&#10;    [2, 4, 6],&#10;    [1, 3, 5],&#10;    [7, 8, 9]&#10;]&#10;&#10;for i in range(3):&#10;    for j in range(3):&#10;        print(matriz[i][j], end=&quot; &quot;)&#10;    print()">
+      <option name="closed" value="true" />
+      <created>1788223687387</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1788223687387</updated>
+    </task>
+    <task id="LOCAL-00005" summary="matriz = [&#10;    [2, 4, 6],&#10;    [1, 3, 5],&#10;    [7, 8, 9]&#10;]&#10;&#10;for i in range(3):&#10;    for j in range(3):&#10;        print(matriz[i][j], end=&quot; &quot;)&#10;    print()">
+      <option name="closed" value="true" />
+      <created>1789945441155</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1789945441155</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Tarea semana 12">
+      <option name="closed" value="true" />
+      <created>1789946040002</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1789946040002</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Tarea semana 12">
+      <option name="closed" value="true" />
+      <created>1789946191265</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1789946191265</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Tarea semana 12">
+      <option name="closed" value="true" />
+      <created>1789946398724</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1789946398724</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Tarea semana 12">
+      <option name="closed" value="true" />
+      <created>1789946429348</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1789946429348</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Tarea semana 12">
+      <option name="closed" value="true" />
+      <created>1789948163339</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1789948163339</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Merge remote-tracking branch 'origin/main'">
+      <option name="closed" value="true" />
+      <created>1789959250635</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1789959250635</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="matriz = [&#10;    [2, 4, 6],&#10;    [1, 3, 5],&#10;    [7, 8, 9]&#10;]&#10;&#10;for i in range(3):&#10;    for j in range(3):&#10;        print(matriz[i][j], end=&quot; &quot;)&#10;    print()" />
+    <MESSAGE value="Tarea semana 12" />
+    <MESSAGE value="Tarea semana 13" />
+    <MESSAGE value="Merge remote-tracking branch 'origin/main'" />
+    <option name="LAST_COMMIT_MESSAGE" value="Merge remote-tracking branch 'origin/main'" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/SEMANA_10_py$reserva_cine.coverage" NAME="reserva_cine Coverage Results" MODIFIED="1788223623333" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/SEMANA 12" />
+    <SUITE FILE_PATH="coverage/2026_FP_Fernandez_Gustavo$SEMANA_11.coverage" NAME="SEMANA 11 Coverage Results" MODIFIED="1787960305888" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/SEMANA 11" />
+    <SUITE FILE_PATH="coverage/SEMANA_10_py$FuncionCompra.coverage" NAME="FuncionCompra Coverage Results" MODIFIED="1789945592896" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/SEMANA 13" />
+    <SUITE FILE_PATH="coverage/SEMANA_10_py$ejercicio_funciones.coverage" NAME="ejercicio_funciones Coverage Results" MODIFIED="1789959574455" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/SEMANA 14" />
+  </component>
+</project>
