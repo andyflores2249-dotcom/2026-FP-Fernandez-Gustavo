@@ -1,5 +1,3 @@
-# Registro de contactos usando un diccionario
-
 contactos = {}
 
 while True:
@@ -32,8 +30,7 @@ while True:
         nombre = input("Ingrese el nombre que desea buscar: ")
 
         if nombre in contactos:
-            print("Contacto encontrado.")
-            print("Número de teléfono:", contactos[nombre])
+            print("Teléfono:", contactos[nombre])
         else:
             print("El contacto no existe.")
 
@@ -42,4 +39,4 @@ while True:
         break
 
     else:
-        print("Opción no válida. Intente nuevamente.")
+        print("Opción no válida.")
